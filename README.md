@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wheesk
-- 👀 I’m interested in Cyber Security.
+- 👀 I’m interested in Security.
 - ⚡ Fun fact: Enthusiast.
 
 <!---
